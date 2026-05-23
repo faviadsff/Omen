@@ -1,0 +1,6 @@
+{
+  "name": "Omen Picture",
+  "description": "Uma experiência digital cinematográfica e de alta performance em preto e branco para a Omen Picture LLC, agência de marketing e produção de alto impacto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
